@@ -2,12 +2,17 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Thoughts on teaching
+description: Teaching experience
 nav: true
 nav_order: 5
 ---
 
-I am currently a teaching assistant for CPSC103 at UBC.
+I will be teaching CPSC103 in 2024W2!
+
+I have been a TA for CPSC103 and CPSC121.
+Within CPSC103, I have been heavily involved in integrating PrairieLearn and autograding into the course.
+
+Recently (September 2024), I worked on developing materials for the department's TA training program with Jordon Johnson.
 
 Back at UofT, I was a teaching assistant for the following courses:
 

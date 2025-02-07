@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Jeffrey Niu # the website title (if blank, full name will be used instead)
 first_name: Jeffrey
 middle_name:
 last_name: Niu
 email: yinian@cs.ubc.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Jeffrey Niu's personal website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Yi Nian, Niu, Jeffrey, UBC, University of British Columbia, Computer Science  # add your own keywords or leave empty
@@ -206,6 +206,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-link-attributes
   - jekyll-twitter-plugin
+  - jekyll-seo-tag
   - jemoji
 
 # Sitemap settings

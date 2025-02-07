@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) supervised by [Jiarui Ding](https://www.cs.ubc.ca/~jiaruid/).
+I'm a PhD student in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) supervised by [Jiarui Ding](https://www.cs.ubc.ca/~jiaruid/) and [Christian Steidl](https://www.bccrc.ca/dept/lcr/people/christian-steidl).
 I completed by Master's degree in the same department in 2024.
 I completed my undergraduate degree in the [Department of Computer Science](https://web.cs.toronto.edu/) at the [University of Toronto](https://www.utoronto.ca/), where I worked with Professor [Michael M. Hoffman](https://hoffmanlab.org/).
 
